@@ -1,0 +1,10 @@
+* {
+    margin: 10;
+    padding: 10;
+    box-sizing: border-box;    
+}
+.yy {
+ border: 10px solid;
+ padding: 20px;
+ margin:0;
+}
